@@ -1,10 +1,5 @@
 # Yii2 Extension for Making Dynamic Forms
 
-[![Latest Version](https://img.shields.io/github/release/yii2-extensions/dynamicform.svg?style=flat-square)](https://github.com/yii2-extensions/dynamicform/releases)
-[![Software License](http://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Total Downloads](https://img.shields.io/packagist/dt/yii2-extensions/dynamicform.svg?style=flat-square)](https://packagist.org/packages/yii2-extensions/dynamicform)
-
-
 It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.
 ![yii2-dynamicform](images/sample.jpeg)
 
@@ -16,13 +11,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require --prefer-dist yii2-extensions/dynamicform:"^1.0.0"
+composer require --prefer-dist preilakos/dynamicform:"^1.0.0"
 ```
 
 or add
 
 ```
-"yii2-extensions/dynamicform": "^1.0.0"
+"preilakos/dynamicform": "^1.0.0"
 ```
 
 to the require section of your `composer.json` file. 

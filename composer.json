@@ -1,6 +1,6 @@
 {
-    "name": "yii2-extensions/dynamicform",
-    "description": "Yii2 Dynamic form widget for  cloning form elements in a nested manner while maintaining accessibility.",
+    "name": "preilakos/dynamicform",
+    "description": "Upgraded version of the yii2-extensions DynamicForm extension with advanced security features.",
     "keywords": [
         "yii2",
         "extension",
@@ -15,9 +15,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "support": {
-        "issues": "https://github.com/yii2-extensions/dynamicform/issues",
-        "wiki": "https://github.com/yii2-extensions/dynamicform/wiki/",
-        "source": "https://github.com/yii2-extensions/dynamicform"
+        "issues": "https://github.com/preilakos/dynamicform/issues",
+        "source": "https://github.com/preilakos/dynamicform"
     },
     "authors": [
         {
@@ -29,6 +28,10 @@
             "name": "Stefano Mtangoo",
             "email": "mwinjilisti@gmail.com",
             "homepage": "http://hosannahighertech.co.tz"
+        },
+        {
+            "name": "Akos Preil",
+            "email": "preil@prak.hu"
         }
     ],
     "require": {
